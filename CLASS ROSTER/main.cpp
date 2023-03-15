@@ -66,28 +66,3 @@ cout << endl;
 
 return 0;
 }
-
-/*
-                                                                References
-         Vahid,F.Introduction to C++.zyBooks. Programming in C++.https://learn.zybooks.com/zybook/WGUC867v4.
-
-         Vahid,F.Variables/Assignments.zyBooks. Programming in C++.https://learn.zybooks.com/zybook/WGUC867v4.
-
-         Vahid,F.Branches.zyBooks. Programming in C++.https://learn.zybooks.com/zybook/WGUC867v4.
-
-         Vahid,F.Loops.zyBooks. Programming in C++.https://learn.zybooks.com/zybook/WGUC867v4.
-
-         Vahid,F.Arrays/Vectors.zyBooks. Programming in C++.https://learn.zybooks.com/zybook/WGUC867v4.
-
-         Vahid,F.User-Defined Functions. Programming in C++.https://learn.zybooks.com/zybook/WGUC867v4.
-
-         Vahid,F.Objects and Classes.zyBooks. Programming in C++.https://learn.zybooks.com/zybook/WGUC867v4.
-
-         Vahid,Pointers.zyBooks. Programming in C++.https://learn.zybooks.com/zybook/WGUC867v4.
-
-         Vahid,F.Streams.zyBooks. Programming in C++.https://learn.zybooks.com/zybook/WGUC867v4.
-         
-         Krypto,D.Book Repo.https://www.youtube.com/playlist?list=PLy3px7ccyKLdhMyTkvgbQN9mrYCM0OYSP
-
-         .https://github.com/sophiedang0101/WGU-C867-Class-Roster-Project/blob/main/C%2B%2B_Class_Roster/Class_Roster_Program
-*/
